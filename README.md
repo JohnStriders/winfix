@@ -1,5 +1,5 @@
 # winfix
-Small Python🐍 script for fixing Windows 10 bug and erorrs⚠️!
+Small Python🐍 script for fixing Windows 10 bug and errors⚠️!
 ----
 * Currently supported fixes:
   * Clipboard - fix Windows 10 clipboard (ctrl + c | ctrl + v not working)! Use "Winfix.exe clipboard" in cmd.
