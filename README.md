@@ -10,7 +10,7 @@ In the future I plan to add even more fixes!
 ## Installing
 There's 2 ways how to install and use this script:
 <br>
-1. Download from releases page and it to environment variables.
+1. Download from releases page and add it to environment variables.
 2. Install all dependencies and run it using python 3. 
 * dependencies:
   * readchar (`pip install readchar`)
