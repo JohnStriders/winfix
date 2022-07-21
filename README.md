@@ -8,4 +8,4 @@ Small Python🐍 script for fixing Windows 10 bug and errors⚠️!
 
 In the future I plan to add even more fixes!
  ## Screenshots
- ![Screenshot of fixes list.](https://imgur.com/a/UuAM1iv)
+ ![Screenshot of fixes list.](https://i.imgur.com/GFq5QPh.png)
