@@ -10,7 +10,7 @@ import readchar
 windll.kernel32.SetConsoleTitleW("Winfix")
 
 
-print('WinFix is a small script for fixing annoying Windows 10 bugs and errors. © WeskyFoxxo 2022\nCurrent version: 1.0\n')
+print('WinFix is a small script for fixing annoying Windows 10 bugs and errors. © John Strider 2022\nCurrent version: 1.0\n')
 
 
 def internet():
