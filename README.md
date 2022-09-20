@@ -17,4 +17,4 @@ There's 2 ways how to install and use this script:
   * psutil (`pip install psutil`)
 ## Screenshots
  ![Screenshot of fixes list.](https://i.imgur.com/GFq5QPh.png)
-***made by fluffy WeskyFoxxo🦊 <3***
+***made with <3***
